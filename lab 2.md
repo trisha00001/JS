@@ -1,3 +1,4 @@
+
 ### ЛАБОРАТОРНАЯ РАБОТА №2
 **Тема:** Inversion of Control и Dependency Injection с помощью аннотаций и кода.
 
